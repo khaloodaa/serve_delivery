@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "951154214676",
+    "project_id": "serive-7e5aa",
+    "storage_bucket": "serive-7e5aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951154214676:android:3bfaf07b653f375396a401",
+        "android_client_info": {
+          "package_name": "com.ksa.lathah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw7QsVjbHJVDYAPK5BMRYs8LWjiciWGUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951154214676:android:a854b4c23ac1e2d096a401",
+        "android_client_info": {
+          "package_name": "com.serve.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw7QsVjbHJVDYAPK5BMRYs8LWjiciWGUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951154214676:android:743d6b77027cb52f96a401",
+        "android_client_info": {
+          "package_name": "com.serve.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw7QsVjbHJVDYAPK5BMRYs8LWjiciWGUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
